@@ -48,10 +48,3 @@ c) Plot a single diagram of this passer's shot assists (pass to reception) and t
 Q6)
 a) Which team won the xG battle and how much xG did each teamid have?
 b) Given who won the game, what does this tell you about how the game went?
-
-Q7) 
-a) With the information provided in the data files and the columns you've been asked to create in the questions above, use a statistical technique of your choice to show the highest predictors of a goal within this dataset (what would use if you were building an xG model).
-b) Please explain your reasoning for your choices in answering 7a) and then explain your findings like you were talking to the Assistant Coach.
-
-Hint: look back at the columns you were asked to create, along with the information already provided in the event dataset, what would lead to dangerous shot attempts? Are there other features from a pass-reception-shot sequence (for example) that would be easy to create with the information provided?
-
