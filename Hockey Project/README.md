@@ -1,5 +1,5 @@
 # Hockey Project
-### Aim: Create a post-match report/dashboard for a hockey coaching team highlighting key actions in the game such as pass map, goal shot map, shooting efficiency and key performers in the games.
+### Aim: Create a post-match report/dashboard for a hockey coaching team highlighing key actions in the game such as pass map, goal shot map, shoting efficiency and key performers in the games.
 
 ## Tools used:
 - Python for analysis
@@ -10,11 +10,14 @@
 
 - X and Y Coordinates are in feet and are adjusted such that both teams attack from left (dz) to right (oz)
     - X values range from -100 (end boards behind the DZ net) to 0 (centre ice) and 100 (end boards behind the OZ net)
-    - Y values range from -42.5 (west sideboards) to 0 (centre ice) and 42.5 (east sideboards)
+    - Y values range from -42.5 (west side boards) to 0 (centre ice) and 42.5 (east side boards)
     - **When creating scatter plots, please use these coordinates along with the provided rink_template to display the full rink**
 
 - Binary columns that have values of 0 or 1 indicate 0=No, 1=Yes
 
-- Successful passes are completed passes, successful shots are shots on the net
+- Successfull passes are completed passes, successful shots are shots on net
 
-- Compiledgametime is in seconds, and periods are 20 minutes long, except for overtime which is 5 minutes or less
+- Compiledgametime is in seconds, periods are 20 minutes long, except for overtime which is 5 minutes or less
+
+#
+
