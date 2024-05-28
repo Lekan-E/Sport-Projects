@@ -20,7 +20,7 @@ Data Info:
 - Compiledgametime is in seconds, and periods are 20 minutes long, except for overtime which is 5 minutes or less
 
 ### Match Report Dashboard
-Link to interactive dashboard:
+Link to interactive dashboard: https://raw.githack.com/Lekan-E/SportProjects/main/Hockey%20Project/index.html
 
 ![Alt Text](https://github.com/Lekan-E/SportProjects/blob/30538c36fe535a8aca65ad4e612d991f59290f22/Hockey%20Project/Tableau%20Images/Match%20Dashboard.jpg)
 
@@ -29,14 +29,22 @@ Q1)
 a) Which teamid won the game, what was the score, which period was the winning goal scored in?
 b) Limited to the period where the winning goal was scored, create a scatter plot for the winning team's shot attempts in that period and highlight the winning goal in a different colour.
 
+![Alt Text](https://github.com/Lekan-E/SportProjects/blob/931ad96b500b9fb6f299bd054bd2a062492909bc/Hockey%20Project/Tableau%20Images/Q1b.jpg)
+
 Q2)
 
 a) Which playerid scored the winning goal? 
 b) Create a scatter plot for all of this player's powerplay shot attempts for the full game.
+![Alt Text](https://github.com/Lekan-E/SportProjects/blob/931ad96b500b9fb6f299bd054bd2a062492909bc/Hockey%20Project/Tableau%20Images/2b.jpg)
+
 c) If we told you these were Alex Ovechkin's powerplay shot attempts, what would you need to do to the Y coordinates for these attempts to appear from "Ovi's Office"? Please re-create the scatter plot accordingly.
+![Alt Text](https://github.com/Lekan-E/SportProjects/blob/931ad96b500b9fb6f299bd054bd2a062492909bc/Hockey%20Project/Tableau%20Images/2c.jpg)
 
 Q3)
 a) The Assistant Coach wants to know how each team's even strength pass completion rate breaks down in each zone (please use the zone of pass origin). Build a simple visual to display this information for them in a clear and digestible way. 
+![Alt Text](https://github.com/Lekan-E/SportProjects/blob/931ad96b500b9fb6f299bd054bd2a062492909bc/Hockey%20Project/Tableau%20Images/3a.jpg)
+![Alt Text](https://github.com/Lekan-E/SportProjects/blob/931ad96b500b9fb6f299bd054bd2a062492909bc/Hockey%20Project/Tableau%20Images/3a%20(2).jpg)
+
 b) Which zone was more difficult to complete passes in at even strength, why do you think that is? 
 c) What was each goalie id's slot save percentage? (the slot includes innerSlot, westOuterSlot, & eastOuterSlot)
 
