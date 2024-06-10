@@ -8,5 +8,7 @@ The use case of this chart is to:
 - Compare performance trends of different teams.
 
 ## Link to the interactive dashboard
-![Alt Text](https://public.tableau.com/views/TeamsRankinginthe202324BundesligaSeason/Dashboard2?:language=en-US&:sid=&:display_count=n&:origin=viz_share_link)
+https://public.tableau.com/views/TeamsRankinginthe202324BundesligaSeason/Dashboard2?:language=en-US&:sid=&:display_count=n&:origin=viz_share_link
 
+
+![Alt Text](https://github.com/Lekan-E/SportProjects/blob/main/Bundesliga%20Bumpy%20Chart/Bumpy%20Chart.jpg)
