@@ -3,8 +3,8 @@
 The goal is to create a visualization that accounts for the following shot outcomes, a goal, a shot off target and a shot saved by the goalkeeper. It also provides key information about the quality of the shots using the following metrics, Expected Goal (xG), xG Differential (Goal - xG) and xG per Shot.
 
 Tools used: 
-Python - To access the Statsbomb API,
-Tableau - To create data visualizations and dashboards.
+- Python: To access the Statsbomb API,
+- Tableau: To create data visualizations and dashboards.
 
 Check the visualization here (preferably on a computer) - https://public.tableau.com/views/AFCONShotMap/MainDashboard?:language=en-US&:sid=&:display_count=n&:origin=viz_share_link
 
