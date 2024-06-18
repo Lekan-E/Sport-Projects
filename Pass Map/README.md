@@ -13,4 +13,4 @@ Tools:
 # Link to the dashboard
 https://public.tableau.com/views/NigeriaAFCONPassMap/Team?:language=en-US&:sid=&:display_count=n&:origin=viz_share_link
 
-![Alt Text](https://github.com/Lekan-E/SportProjects/blob/main/Soccer%20Pass%20Map/Pass%20Map.jpg)
+![Alt Text](https://github.com/Lekan-E/SportProjects/blob/7db4c1a777bb96b77585038c88cc5053b19a3e33/Pass%20Map/Pass%20Map.jpg)
