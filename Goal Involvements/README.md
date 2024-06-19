@@ -10,4 +10,4 @@
 - Tactical Insights: To identify patterns in the player's goal involvements, such as preferred shooting locations or assist zones.
 - Visual Clarity: To present complex data in a simple, visually intuitive manner, making it easier for coaches, analysts, and fans to understand the player’s performance.
 
-![Alt Text](https://github.com/Lekan-E/SportProjects/blob/main/Bundesliga%20Bumpy%20Chart/Bumpy%20Chart.jpg)
+![Alt Text](https://github.com/Lekan-E/SportProjects/blob/f98a2550efae229852da908aafdcac129ad86c31/Goal%20Involvements/Goal%20Involvement%20Dash.jpg)
