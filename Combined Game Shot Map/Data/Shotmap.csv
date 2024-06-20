@@ -1,0 +1,27 @@
+id,match_id,minute,player,player_id,shot_body_part,shot_outcome,shot_statsbomb_xg,location_x,location_y,shot_end_location_x,shot_end_location_y,shot_end_location_z,team,team_id,home_away
+fc8518e0-5403-4e24-b29d-9c6aa0c4572e,3895333,9,Granit Xhaka,3500,Left Foot,Blocked,0.024850486,96.7,30.200000000000003,101.5,31.5,,Bayer Leverkusen,904,away
+0d2470c8-1544-4fcf-a8b8-a4aa1a6b6371,3895333,11,Granit Xhaka,3500,Left Foot,Goal,0.032375105,96.6,46.4,120.0,36.6,1.5,Bayer Leverkusen,904,away
+158520be-290c-420c-a39c-1cb03429d959,3895333,20,Exequiel Alejandro Palacios,28268,Right Foot,Blocked,0.19429411,107.3,39.6,113.0,38.2,,Bayer Leverkusen,904,away
+528a780c-3ccd-45a7-8bf9-a951a832c07f,3895333,29,Jonas Hofmann,8804,Right Foot,Saved,0.040702738,94.9,42.3,118.1,36.8,0.2,Bayer Leverkusen,904,away
+a70ba2bf-4bb6-4d06-9398-d18c71d44d25,3895333,31,Hugo Ekitike,50429,Head,Goal,0.13593885,8.700000000000003,45.2,0.0,36.8,0.9,Eintracht Frankfurt,184,home
+39aed532-7f13-4179-b0f8-1f78fa5b93ec,3895333,39,Omar Marmoush,40761,Right Foot,Saved,0.017500963,6.099999999999994,24.9,0.7999999999999972,35.5,0.2,Eintracht Frankfurt,184,home
+77629cca-208c-45e8-87a8-37fc2846ea5c,3895333,40,Fares Chaïbi,217047,Left Foot,Off T,0.02228884,27.599999999999994,31.0,0.0,49.5,0.3,Eintracht Frankfurt,184,home
+0eb21787-dd7e-4ef7-a943-8a60f85fbb53,3895333,41,Jonas Hofmann,8804,Right Foot,Blocked,0.05227081,101.3,29.1,104.2,30.799999999999997,,Bayer Leverkusen,904,away
+1ea217d8-dbc7-41f5-98f3-799be4c48e97,3895333,41,Omar Marmoush,40761,Right Foot,Off T,0.36661395,14.700000000000003,43.4,0.0,43.0,4.8,Eintracht Frankfurt,184,home
+693cddac-5b0c-469f-8c78-f2add46315b9,3895333,43,Patrik Schick,7044,Head,Goal,0.19578177,113.7,36.8,120.0,40.6,1.4,Bayer Leverkusen,904,away
+731eec99-2ea3-46f6-8f2d-650887aa046a,3895333,45,Omar Marmoush,40761,Right Foot,Off T,0.021870451,27.099999999999994,40.8,0.0,45.4,0.7,Eintracht Frankfurt,184,home
+2ab5fb77-fab8-4dd9-9cbb-3310e3146d6a,3895333,46,Hugo Ekitike,50429,Left Foot,Wayward,0.0918847,17.099999999999994,49.0,16.099999999999994,40.5,,Eintracht Frankfurt,184,home
+7028fc56-e4bc-4fcd-a68a-60abe0bb2421,3895333,46,Fares Chaïbi,217047,Right Foot,Off T,0.13472325,14.700000000000003,33.3,0.0,39.2,4.0,Eintracht Frankfurt,184,home
+82853bfd-ad2a-4d3a-9111-d26c50747d18,3895333,57,Exequiel Alejandro Palacios,28268,Right Foot,Goal,0.7835,108.2,39.9,120.0,36.5,0.2,Bayer Leverkusen,904,away
+c50dc871-b61c-40b3-8633-a62456629d9c,3895333,59,Mario Götze,8227,Right Foot,Blocked,0.055923518,14.5,48.4,12.099999999999994,47.4,,Eintracht Frankfurt,184,home
+4b5d7645-b245-4a03-959e-b39ff6490c36,3895333,59,Omar Marmoush,40761,Head,Off T,0.051184546,11.799999999999997,43.8,0.0,41.9,3.5,Eintracht Frankfurt,184,home
+57c1ff7c-7281-4448-a230-88e7239cf5e2,3895333,61,Hugo Ekitike,50429,Left Foot,Blocked,0.038133413,24.5,34.9,19.599999999999994,35.3,,Eintracht Frankfurt,184,home
+94bed89f-35c3-4615-a773-c22b57e350f6,3895333,68,Eric Junior Dina Ebimbe,28346,Right Foot,Wayward,0.04776066,11.099999999999994,55.4,0.0,17.8,,Eintracht Frankfurt,184,home
+81eafc87-3889-4c0c-9de1-086dd0f07ede,3895333,70,Fares Chaïbi,217047,Right Foot,Saved,0.009964063,25.099999999999994,22.7,2.0999999999999943,40.5,0.8,Eintracht Frankfurt,184,home
+69ed298b-324f-4574-b12c-85d3d021b777,3895333,74,Fares Chaïbi,217047,Right Foot,Saved,0.039118815,30.5,44.0,1.0999999999999943,43.4,0.9,Eintracht Frankfurt,184,home
+2d134930-fab3-4cbf-822c-4e87d0fca66b,3895333,76,Jeremie Frimpong,32712,Right Foot,Goal,0.47853372,111.9,34.2,120.0,43.5,0.9,Bayer Leverkusen,904,away
+ae1137c3-4ad0-4378-9954-cac291e48d39,3895333,81,Mario Götze,8227,Right Foot,Blocked,0.039151978,18.700000000000003,46.5,16.599999999999994,45.9,,Eintracht Frankfurt,184,home
+b307c69b-cea2-4252-b48e-5a87f0ce1fbf,3895333,82,Ansgar Knauff,39070,Right Foot,Blocked,0.105557114,10.5,30.0,9.599999999999994,30.8,,Eintracht Frankfurt,184,home
+afa25fb0-8ce7-430c-8995-81b9b2ef5dff,3895333,84,Ignacio Ferri Julià,314766,Right Foot,Blocked,0.047907706,19.099999999999994,31.1,12.400000000000006,33.6,,Eintracht Frankfurt,184,home
+42e736cd-e443-43b7-a8e5-aa1bc7ecd199,3895333,88,Victor Okoh Boniface,32289,Right Foot,Goal,0.7835,108.1,39.9,120.0,39.8,2.3,Bayer Leverkusen,904,away
+fbf83c74-836a-4bda-85ca-5158be7e590f,3895333,92,Ignacio Ferri Julià,314766,Right Foot,Saved,0.21601155,11.200000000000003,37.8,2.5,38.0,0.5,Eintracht Frankfurt,184,home

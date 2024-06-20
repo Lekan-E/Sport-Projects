@@ -1,0 +1,22 @@
+id,match_id,minute,player,player_id,shot_outcome,pass_goal_assist,shot_statsbomb_xg,location_x,location_y,pass_end_location_x,pass_end_location_y,goal_outcome
+5085715b-09f6-403c-8b67-a546bcfed0ec,3895302,67,Florian Wirtz,40724.0,Goal,,0.042012483,93.5,40.1,,,Goal
+4a223f2d-3c3f-4655-b561-9c43a03b0f42,3895302,82,Florian Wirtz,40724.0,Goal,,0.43832713,103.6,35.0,,,Goal
+dcc0c591-7ebd-4e42-8206-04bfefa94f33,3895302,89,Florian Wirtz,40724.0,Goal,,0.28999847,106.4,48.8,,,Goal
+f5dea30a-5df6-4639-94dd-8319d9c8b256,3895292,52,Florian Wirtz,40724.0,Goal,,0.7835,108.0,40.0,,,Goal
+9666f5e8-fa67-4ca1-a2a7-befeac0329e9,3895220,51,Florian Wirtz,40724.0,,True,,98.6,46.3,109.1,52.0,Assist
+b8dfb027-cf49-4265-a7fe-8e63c2d8168b,3895250,67,Florian Wirtz,40724.0,,True,,91.9,10.2,87.2,23.2,Assist
+8d63447c-9e8d-47a4-a40b-744d0d5d3750,3895266,85,Florian Wirtz,40724.0,Goal,,0.17132688,110.5,35.0,,,Goal
+0b7cd6e5-2ab6-46d0-b7d3-4e5b4a43513b,3895275,1,Florian Wirtz,40724.0,Goal,,0.085923634,104.0,29.3,,,Goal
+67c0936a-6941-47a7-8edc-8cb33ae47129,3895180,13,Florian Wirtz,40724.0,,True,,63.9,33.6,78.9,15.9,Assist
+fcfab8e6-651c-406f-a51d-d87d1d1804d0,3895180,56,Florian Wirtz,40724.0,Goal,,0.3293735,104.4,30.2,,,Goal
+bc5cf701-66a0-4bbf-a349-b178a8999ebb,3895134,8,Florian Wirtz,40724.0,Goal,,0.4335934,112.9,34.8,,,Goal
+12b0d458-1b39-41dd-aaac-a5c99f79e931,3895121,35,Florian Wirtz,40724.0,Goal,,0.07542497,112.1,51.7,,,Goal
+84c226fb-7b4e-4a3b-bf27-7799ca9e7086,3895107,21,Florian Wirtz,40724.0,,True,,110.0,32.3,110.6,38.0,Assist
+642562ab-7aa5-458d-bf8d-c153acfcde06,3895139,22,Florian Wirtz,40724.0,,True,,105.5,27.6,98.2,21.7,Assist
+dacc4575-ffac-4df6-923d-201e99bf8adb,3895309,96,Florian Wirtz,40724.0,,True,,120.0,0.1,115.5,34.8,Assist
+18c5946c-e074-4b5e-bd70-7cdb069426b3,3895244,80,Florian Wirtz,40724.0,,True,,87.4,50.3,109.5,38.3,Assist
+0ed5953f-5389-4388-944b-b2fbfb9e61e9,3895182,68,Florian Wirtz,40724.0,,True,,85.4,62.8,99.5,54.1,Assist
+0dc1e36d-6ea9-4030-aea5-71aaef3d7162,3895167,46,Florian Wirtz,40724.0,Goal,,0.44466448,112.9,44.4,,,Goal
+bb958973-713a-4953-a071-b51ffbba8d40,3895067,60,Florian Wirtz,40724.0,,True,,87.8,33.7,105.9,31.8,Assist
+7799a16b-4960-4f92-8a24-d70830c68763,3895060,52,Florian Wirtz,40724.0,,True,,83.2,48.9,107.4,44.9,Assist
+f8cd5da5-6a20-41ad-8794-4397b76a11cf,3895052,63,Florian Wirtz,40724.0,Goal,,0.14435048,104.8,45.4,,,Goal
