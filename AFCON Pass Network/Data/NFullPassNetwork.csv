@@ -1,0 +1,104 @@
+player,pass_recipient,goal_status,pass_count,location_x,location_y,count,location_x_end,location_y_end,count_end
+Ademola Lookman,Alex Iwobi,afterGoal,2,47.96666666666667,26.48333333333333,6,57.120000000000005,27.160000000000004,5
+Frank Onyeka,Alex Iwobi,afterGoal,1,71.15,55.125,4,57.120000000000005,27.160000000000004,5
+Oluwasemilogo Adesewo Ibidapo Ajayi,Alex Iwobi,afterGoal,1,57.5,62.3,2,57.120000000000005,27.160000000000004,5
+Ademola Lookman,Temitayo Olufisayo Olaoluwa Aina,afterGoal,1,47.96666666666667,26.48333333333333,6,76.5125,61.5125,8
+Alhassan Yusuf,Temitayo Olufisayo Olaoluwa Aina,afterGoal,1,72.67999999999999,33.040000000000006,5,76.5125,61.5125,8
+Calvin Bassey Ughelumba,Temitayo Olufisayo Olaoluwa Aina,afterGoal,2,57.839999999999996,21.84,5,76.5125,61.5125,8
+Kelechi Promise Iheanacho,Temitayo Olufisayo Olaoluwa Aina,afterGoal,1,102.03333333333335,58.333333333333336,3,76.5125,61.5125,8
+Moses Daddy-Ajala Simon,Temitayo Olufisayo Olaoluwa Aina,afterGoal,2,86.48571428571428,40.728571428571435,7,76.5125,61.5125,8
+William Troost-Ekong,Temitayo Olufisayo Olaoluwa Aina,afterGoal,1,50.01428571428572,43.41428571428571,7,76.5125,61.5125,8
+Ademola Lookman,Victor James Osimhen,afterGoal,1,47.96666666666667,26.48333333333333,6,105.2,49.0,1
+Temitayo Olufisayo Olaoluwa Aina,Victor James Osimhen,afterGoal,1,76.5125,61.5125,8,105.2,49.0,1
+William Troost-Ekong,Victor James Osimhen,afterGoal,1,50.01428571428572,43.41428571428571,7,105.2,49.0,1
+Ademola Lookman,William Troost-Ekong,afterGoal,2,47.96666666666667,26.48333333333333,6,50.01428571428572,43.41428571428571,7
+Alex Iwobi,William Troost-Ekong,afterGoal,1,57.120000000000005,27.160000000000004,5,50.01428571428572,43.41428571428571,7
+Alhassan Yusuf,William Troost-Ekong,afterGoal,1,72.67999999999999,33.040000000000006,5,50.01428571428572,43.41428571428571,7
+Moses Daddy-Ajala Simon,William Troost-Ekong,afterGoal,1,86.48571428571428,40.728571428571435,7,50.01428571428572,43.41428571428571,7
+Stanley Bobo Nwabali,William Troost-Ekong,afterGoal,1,28.2,39.1,3,50.01428571428572,43.41428571428571,7
+Temitayo Olufisayo Olaoluwa Aina,William Troost-Ekong,afterGoal,2,76.5125,61.5125,8,50.01428571428572,43.41428571428571,7
+Ademola Lookman,Calvin Bassey Ughelumba,beforeGoal,1,47.06666666666666,34.300000000000004,3,39.645833333333336,22.075,24
+Alex Iwobi,Calvin Bassey Ughelumba,beforeGoal,3,50.70769230769231,29.43846153846154,13,39.645833333333336,22.075,24
+Frank Onyeka,Calvin Bassey Ughelumba,beforeGoal,2,42.4,57.349999999999994,4,39.645833333333336,22.075,24
+Oluwasemilogo Adesewo Ibidapo Ajayi,Calvin Bassey Ughelumba,beforeGoal,1,42.3,68.68,15,39.645833333333336,22.075,24
+Stanley Bobo Nwabali,Calvin Bassey Ughelumba,beforeGoal,7,8.876923076923077,40.138461538461534,13,39.645833333333336,22.075,24
+William Troost-Ekong,Calvin Bassey Ughelumba,beforeGoal,7,36.733333333333334,46.95,18,39.645833333333336,22.075,24
+Zaidu Sanusi,Calvin Bassey Ughelumba,beforeGoal,5,57.11875,8.6,16,39.645833333333336,22.075,24
+Ademola Lookman,Samuel Chimerenka Chukwueze,beforeGoal,1,47.06666666666666,34.300000000000004,3,60.025,59.375,4
+Alex Iwobi,Samuel Chimerenka Chukwueze,beforeGoal,1,50.70769230769231,29.43846153846154,13,60.025,59.375,4
+Calvin Bassey Ughelumba,Samuel Chimerenka Chukwueze,beforeGoal,1,39.645833333333336,22.075,24,60.025,59.375,4
+Oluwasemilogo Adesewo Ibidapo Ajayi,Samuel Chimerenka Chukwueze,beforeGoal,4,42.3,68.68,15,60.025,59.375,4
+Temitayo Olufisayo Olaoluwa Aina,Samuel Chimerenka Chukwueze,beforeGoal,1,60.37142857142857,73.24285714285715,7,60.025,59.375,4
+Victor James Osimhen,Samuel Chimerenka Chukwueze,beforeGoal,1,80.92,52.620000000000005,5,60.025,59.375,4
+Ademola Lookman,William Troost-Ekong,beforeGoal,1,47.06666666666666,34.300000000000004,3,36.733333333333334,46.95,18
+Alex Iwobi,William Troost-Ekong,beforeGoal,2,50.70769230769231,29.43846153846154,13,36.733333333333334,46.95,18
+Calvin Bassey Ughelumba,William Troost-Ekong,beforeGoal,8,39.645833333333336,22.075,24,36.733333333333334,46.95,18
+Oluwasemilogo Adesewo Ibidapo Ajayi,William Troost-Ekong,beforeGoal,4,42.3,68.68,15,36.733333333333334,46.95,18
+Stanley Bobo Nwabali,William Troost-Ekong,beforeGoal,1,8.876923076923077,40.138461538461534,13,36.733333333333334,46.95,18
+Zaidu Sanusi,William Troost-Ekong,beforeGoal,1,57.11875,8.6,16,36.733333333333334,46.95,18
+Alex Iwobi,Ademola Lookman,afterGoal,1,57.120000000000005,27.160000000000004,5,47.96666666666667,26.48333333333333,6
+Zaidu Sanusi,Ademola Lookman,afterGoal,2,50.025,9.025,4,47.96666666666667,26.48333333333333,6
+Alex Iwobi,Calvin Bassey Ughelumba,afterGoal,1,57.120000000000005,27.160000000000004,5,57.839999999999996,21.84,5
+Joe Aribo,Calvin Bassey Ughelumba,afterGoal,1,68.71428571428571,33.4,7,57.839999999999996,21.84,5
+Stanley Bobo Nwabali,Calvin Bassey Ughelumba,afterGoal,1,28.2,39.1,3,57.839999999999996,21.84,5
+William Troost-Ekong,Calvin Bassey Ughelumba,afterGoal,2,50.01428571428572,43.41428571428571,7,57.839999999999996,21.84,5
+Zaidu Sanusi,Calvin Bassey Ughelumba,afterGoal,1,50.025,9.025,4,57.839999999999996,21.84,5
+Alex Iwobi,Moses Daddy-Ajala Simon,afterGoal,1,57.120000000000005,27.160000000000004,5,86.48571428571428,40.728571428571435,7
+Calvin Bassey Ughelumba,Moses Daddy-Ajala Simon,afterGoal,3,57.839999999999996,21.84,5,86.48571428571428,40.728571428571435,7
+Frank Onyeka,Moses Daddy-Ajala Simon,afterGoal,2,71.15,55.125,4,86.48571428571428,40.728571428571435,7
+Joe Aribo,Moses Daddy-Ajala Simon,afterGoal,1,68.71428571428571,33.4,7,86.48571428571428,40.728571428571435,7
+Temitayo Olufisayo Olaoluwa Aina,Moses Daddy-Ajala Simon,afterGoal,1,76.5125,61.5125,8,86.48571428571428,40.728571428571435,7
+Zaidu Sanusi,Moses Daddy-Ajala Simon,afterGoal,1,50.025,9.025,4,86.48571428571428,40.728571428571435,7
+Alex Iwobi,Zaidu Sanusi,afterGoal,1,57.120000000000005,27.160000000000004,5,50.025,9.025,4
+Alhassan Yusuf,Zaidu Sanusi,afterGoal,1,72.67999999999999,33.040000000000006,5,50.025,9.025,4
+Frank Onyeka,Zaidu Sanusi,afterGoal,1,71.15,55.125,4,50.025,9.025,4
+Alex Iwobi,Temitayo Olufisayo Olaoluwa Aina,beforeGoal,2,50.70769230769231,29.43846153846154,13,60.37142857142857,73.24285714285715,7
+Oluwasemilogo Adesewo Ibidapo Ajayi,Temitayo Olufisayo Olaoluwa Aina,beforeGoal,2,42.3,68.68,15,60.37142857142857,73.24285714285715,7
+Samuel Chimerenka Chukwueze,Temitayo Olufisayo Olaoluwa Aina,beforeGoal,1,60.025,59.375,4,60.37142857142857,73.24285714285715,7
+Victor James Osimhen,Temitayo Olufisayo Olaoluwa Aina,beforeGoal,2,80.92,52.620000000000005,5,60.37142857142857,73.24285714285715,7
+Alex Iwobi,Victor James Osimhen,beforeGoal,1,50.70769230769231,29.43846153846154,13,80.92,52.620000000000005,5
+Frank Onyeka,Victor James Osimhen,beforeGoal,1,42.4,57.349999999999994,4,80.92,52.620000000000005,5
+Oluwasemilogo Adesewo Ibidapo Ajayi,Victor James Osimhen,beforeGoal,1,42.3,68.68,15,80.92,52.620000000000005,5
+Samuel Chimerenka Chukwueze,Victor James Osimhen,beforeGoal,1,60.025,59.375,4,80.92,52.620000000000005,5
+Stanley Bobo Nwabali,Victor James Osimhen,beforeGoal,2,8.876923076923077,40.138461538461534,13,80.92,52.620000000000005,5
+Temitayo Olufisayo Olaoluwa Aina,Victor James Osimhen,beforeGoal,1,60.37142857142857,73.24285714285715,7,80.92,52.620000000000005,5
+Alex Iwobi,Zaidu Sanusi,beforeGoal,4,50.70769230769231,29.43846153846154,13,57.11875,8.6,16
+Calvin Bassey Ughelumba,Zaidu Sanusi,beforeGoal,4,39.645833333333336,22.075,24,57.11875,8.6,16
+Stanley Bobo Nwabali,Zaidu Sanusi,beforeGoal,1,8.876923076923077,40.138461538461534,13,57.11875,8.6,16
+William Troost-Ekong,Zaidu Sanusi,beforeGoal,1,36.733333333333334,46.95,18,57.11875,8.6,16
+Alhassan Yusuf,Kelechi Promise Iheanacho,afterGoal,1,72.67999999999999,33.040000000000006,5,102.03333333333335,58.333333333333336,3
+Joe Aribo,Kelechi Promise Iheanacho,afterGoal,2,68.71428571428571,33.4,7,102.03333333333335,58.333333333333336,3
+Temitayo Olufisayo Olaoluwa Aina,Kelechi Promise Iheanacho,afterGoal,1,76.5125,61.5125,8,102.03333333333335,58.333333333333336,3
+Victor James Osimhen,Kelechi Promise Iheanacho,afterGoal,1,105.2,49.0,1,102.03333333333335,58.333333333333336,3
+Alhassan Yusuf,Oluwasemilogo Adesewo Ibidapo Ajayi,afterGoal,1,72.67999999999999,33.040000000000006,5,57.5,62.3,2
+Moses Daddy-Ajala Simon,Oluwasemilogo Adesewo Ibidapo Ajayi,afterGoal,1,86.48571428571428,40.728571428571435,7,57.5,62.3,2
+William Troost-Ekong,Oluwasemilogo Adesewo Ibidapo Ajayi,afterGoal,1,50.01428571428572,43.41428571428571,7,57.5,62.3,2
+Calvin Bassey Ughelumba,Ademola Lookman,beforeGoal,1,39.645833333333336,22.075,24,47.06666666666666,34.300000000000004,3
+Samuel Chimerenka Chukwueze,Ademola Lookman,beforeGoal,2,60.025,59.375,4,47.06666666666666,34.300000000000004,3
+Temitayo Olufisayo Olaoluwa Aina,Ademola Lookman,beforeGoal,1,60.37142857142857,73.24285714285715,7,47.06666666666666,34.300000000000004,3
+Victor James Osimhen,Ademola Lookman,beforeGoal,2,80.92,52.620000000000005,5,47.06666666666666,34.300000000000004,3
+Zaidu Sanusi,Ademola Lookman,beforeGoal,4,57.11875,8.6,16,47.06666666666666,34.300000000000004,3
+Calvin Bassey Ughelumba,Alex Iwobi,beforeGoal,4,39.645833333333336,22.075,24,50.70769230769231,29.43846153846154,13
+William Troost-Ekong,Alex Iwobi,beforeGoal,1,36.733333333333334,46.95,18,50.70769230769231,29.43846153846154,13
+Zaidu Sanusi,Alex Iwobi,beforeGoal,4,57.11875,8.6,16,50.70769230769231,29.43846153846154,13
+Calvin Bassey Ughelumba,Oluwasemilogo Adesewo Ibidapo Ajayi,beforeGoal,6,39.645833333333336,22.075,24,42.3,68.68,15
+Frank Onyeka,Oluwasemilogo Adesewo Ibidapo Ajayi,beforeGoal,1,42.4,57.349999999999994,4,42.3,68.68,15
+Stanley Bobo Nwabali,Oluwasemilogo Adesewo Ibidapo Ajayi,beforeGoal,2,8.876923076923077,40.138461538461534,13,42.3,68.68,15
+Temitayo Olufisayo Olaoluwa Aina,Oluwasemilogo Adesewo Ibidapo Ajayi,beforeGoal,2,60.37142857142857,73.24285714285715,7,42.3,68.68,15
+William Troost-Ekong,Oluwasemilogo Adesewo Ibidapo Ajayi,beforeGoal,9,36.733333333333334,46.95,18,42.3,68.68,15
+Joe Aribo,Alhassan Yusuf,afterGoal,2,68.71428571428571,33.4,7,72.67999999999999,33.040000000000006,5
+Moses Daddy-Ajala Simon,Alhassan Yusuf,afterGoal,1,86.48571428571428,40.728571428571435,7,72.67999999999999,33.040000000000006,5
+Temitayo Olufisayo Olaoluwa Aina,Alhassan Yusuf,afterGoal,1,76.5125,61.5125,8,72.67999999999999,33.040000000000006,5
+Joe Aribo,Stanley Bobo Nwabali,afterGoal,1,68.71428571428571,33.4,7,28.2,39.1,3
+Moses Daddy-Ajala Simon,Stanley Bobo Nwabali,afterGoal,1,86.48571428571428,40.728571428571435,7,28.2,39.1,3
+Temitayo Olufisayo Olaoluwa Aina,Stanley Bobo Nwabali,afterGoal,1,76.5125,61.5125,8,28.2,39.1,3
+William Troost-Ekong,Stanley Bobo Nwabali,afterGoal,2,50.01428571428572,43.41428571428571,7,28.2,39.1,3
+Kelechi Promise Iheanacho,Joe Aribo,afterGoal,2,102.03333333333335,58.333333333333336,3,68.71428571428571,33.4,7
+Temitayo Olufisayo Olaoluwa Aina,Joe Aribo,afterGoal,1,76.5125,61.5125,8,68.71428571428571,33.4,7
+Moses Daddy-Ajala Simon,Frank Onyeka,afterGoal,1,86.48571428571428,40.728571428571435,7,71.15,55.125,4
+Oluwasemilogo Adesewo Ibidapo Ajayi,Frank Onyeka,afterGoal,1,57.5,62.3,2,71.15,55.125,4
+Stanley Bobo Nwabali,Frank Onyeka,afterGoal,1,28.2,39.1,3,71.15,55.125,4
+Oluwasemilogo Adesewo Ibidapo Ajayi,Frank Onyeka,beforeGoal,1,42.3,68.68,15,42.4,57.349999999999994,4
+Temitayo Olufisayo Olaoluwa Aina,Frank Onyeka,beforeGoal,2,60.37142857142857,73.24285714285715,7,42.4,57.349999999999994,4
+Oluwasemilogo Adesewo Ibidapo Ajayi,Stanley Bobo Nwabali,beforeGoal,2,42.3,68.68,15,8.876923076923077,40.138461538461534,13
+Zaidu Sanusi,Stanley Bobo Nwabali,beforeGoal,2,57.11875,8.6,16,8.876923076923077,40.138461538461534,13
